@@ -3,8 +3,20 @@ layout: default
 ---
 
 # Israel Linguistics Olympiad
-# אולימפיאדת הבלשנות הארצית
+The national linguistics competition for high school students in Israel. Each year, 4 best students nationwise are selected to represent Israel as a team at the International Linguistics Olympiad.
 
+[continue in English](./english)
+
+# אולימפיאדת הבלשנות הארצית
+תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
+
+[להמשיך בעברית](./hebrew)
+<!--
+
+
+
+## IsrLO 2024/2025
+## אב״א תשפ״ה
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -125,3 +137,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
