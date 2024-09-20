@@ -2,12 +2,16 @@
 layout: default
 ---
 
-# Israel Linguistics Olympiad
+
+
+# <img src="images/LingIsraelLogo.png" width="30"> Israel Linguistics Olympiad
 The national linguistics competition for high school students in Israel. Each year, 4 best students nationwise are selected to represent Israel as a team at the International Linguistics Olympiad.
 
 [continue in English](./english)
+[button url="http://www.google.com"]
+<button name="button" onclick="http://www.google.com">Click me</button>
 
-# אולימפיאדת הבלשנות הארצית
+# <img src="images/LingIsraelLogo.png" width="30"> אולימפיאדת הבלשנות הארצית
 תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
 
 [להמשיך בעברית](./hebrew)
