@@ -12,7 +12,13 @@ layout: default
     font-family: Rubik;
   }
   .button {
-    background-color: skyblue;
+    background-color: e4edff;
+    border-radius: 10px;
+    border: 0px;
+    color: black;
+  }
+  .button:hover {
+    background-color: b2c9f6;
   }
   he-brew {
     direction: rtl;
@@ -36,6 +42,7 @@ The national linguistics competition for high school students in Israel. Each ye
   <img src="images/LingIsraelLogo.png" width="30">
   אולימפיאדת הבלשנות הישראלית
 </h1>
+
 #  <he-brew>אולימפיאדת הבלשנות הארצית</he-brew>
 <he-brew>
 תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
