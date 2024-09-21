@@ -66,7 +66,7 @@ The four winners of this olympiad will represent Israel as a team at
 
 <p class="hebrew">
 האולימפיאדת הראשונה מתקיימת בשנת הלימודים הזו.
-</p>
+
 
 | תוצאות                                           | תאריכים                   | שלב      |
 | :-----------------------------------------------:| -------------------------:| --------:|
@@ -76,6 +76,5 @@ The four winners of this olympiad will represent Israel as a team at
 |  |  2025                     | גמר     |
 
 
-<p class="hebrew">
   ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל באולימפיאדה הבינלאומית ביולי 2025 בטאיוואן.
 </p>
