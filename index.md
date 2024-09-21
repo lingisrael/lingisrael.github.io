@@ -33,6 +33,11 @@ header: 🏠︎
 </style>
 </head>
 
+<a href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">
+Register for IsrLO-2024/2025 now!
+</button></a>
+<a class="hebrew" href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">!הרשמה לאב״י תשפ״ה</button></a>
+
 # <img src="images/LingIsraelLogo.png" width="30"> Israeli Linguistics Olympiad
 The national linguistics competition for high school students in Israel. Each year, 4 best students nationwise are selected to represent Israel as a team at the International Linguistics Olympiad.
 
