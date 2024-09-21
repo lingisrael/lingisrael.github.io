@@ -72,7 +72,7 @@ The four winners of this olympiad will represent Israel as a team at
 </p>
 
 
-<div class="to_right" markdown="1">
+<div class="hebrew" markdown="1">
 
 
 | תוצאות                                           | תאריכים                   | שלב      |
@@ -85,7 +85,6 @@ The four winners of this olympiad will represent Israel as a team at
 
 </div>
 
-<div>
 <p class="hebrew">
   ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל <a href="https://ioling.org/upcoming" target="_blank">באולימפיאדה הבינלאומית ביולי 2025 בטאיוואן</a>.
 </p>
