@@ -36,6 +36,7 @@ header: 🏠︎
 <a href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">
 Register for IsrLO-2024/2025 now!
 </button></a>
+
 <a class="hebrew" href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">הרשמה לאב״י תשפ״ה</button></a>
 
 # <img src="images/LingIsraelLogo.png" width="30"> Israeli Linguistics Olympiad
