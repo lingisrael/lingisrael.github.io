@@ -6,12 +6,17 @@ layout: default
   <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
   
 <style>
-  .button {
-    background-color: skyblue;
-  }
   * {
     font-family: Rubik;
   }
+  .button {
+    background-color: skyblue;
+  }
+  he-brew {
+    direction: rtl;
+    text-align: right;
+  }
+  
   
 </style>
 </head>
@@ -21,8 +26,9 @@ The national linguistics competition for high school students in Israel. Each ye
 
 <a href="./english"><button name="button" class="button" onclick="./english">Continue in English</button></a>
 
-
+<he-brew>
 # <img src="images/LingIsraelLogo.png" width="30"> אולימפיאדת הבלשנות הארצית
 תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
+</he-brew>
 
 <a href="./english"><button name="button" class="button" onclick="./hebrew">להמשיך בעברית</button></a>
