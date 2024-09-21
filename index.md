@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 <head>
   <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
