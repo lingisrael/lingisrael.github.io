@@ -56,12 +56,11 @@ The national linguistics competition for high school students in Israel. Each ye
 ## 1st IsrLO (2024/2025)
 The first olympiad is taking place this academic year, 2024/2025.
 
-| Stage     | Dates                  | Results                                           |
-| :---------| :--------------------- | :-----------------------------------------------: |
-| 0         |  4.05.2024             | <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |
-| 1 (aleph) |  1.11.2024 – 2.11.2024 |  |
-| 2 (bet)   |  February 2025         |  |
-| Final     |  2025                  |  |
+| Stage     | Dates                  |Place    | Results                                           |
+| :---------| :--------------------- |:--------| :-----------------------------------------------: |
+| 0         |  4.05.2024             |online   | <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |
+| 1 (aleph) |  1.11.2024 – 2.11.2024 |online   |                          |
+| 2 (bet)   |  February 2025         |in person|    |
 
 The four winners of this olympiad will represent Israel as a team at
 <a href="https://ioling.org/upcoming" target="_blank">IOL-2025 in July in 🇹🇼 Taiwan</a>.
@@ -77,13 +76,11 @@ The four winners of this olympiad will represent Israel as a team at
 
 <div class="hebrew" markdown="1">
 
-
-| שלב      | תאריכים                   | תוצאות                                           |
-| --------:| -------------------------:| :-----------------------------------------------: |
-| 0        |  4.05.2024                | <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |
-| 1 (א)    |  1.11.2024 – 2.11.2024    |  |
-| 2 (ב)    |  פברואר 2025              |  |
-| גמר     |  2025                     |  |
+| שלב        | תאריכים                 | מיקום    | תוצאות                                            |
+| ----------:| -----------------------:| -------: | :-----------------------------------------------: |
+| 0          |  4.05.2024               | אונליין    | <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |
+| א   |  1.11.2024 – 2.11.2024   | אונליין    |                         |
+| א   |  פברואר 2025             | פרונטלי |    |
 
 </div>
 
