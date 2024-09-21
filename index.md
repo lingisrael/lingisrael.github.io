@@ -60,20 +60,22 @@ The first olympiad is taking place this academic year, 2024/2025.
 | Final     |  2025                  |  |
 
 The four winners of this olympiad will represent Israel as a team at
-<a href="https://ioling.org/upcoming" target="_blank">IOL-2025 in 🇹🇼 Taiwan</a>.
+<a href="https://ioling.org/upcoming" target="_blank">IOL-2025 in July in 🇹🇼 Taiwan</a>.
 
 <h2 class="hebrew"> אב״י הראשונה (תשפ״ה, 2024-2025) </h2>
 
 <p class="hebrew">
-
-
 האולימפיאדת הראשונה מתקיימת בשנת הלימודים הזו.
-| תוצאות                                           |      תאריכים                |      שלב      |
-| :-----------------------------------------------:| ---------------------------:| ------------: |
-| <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |      4.05.2024               |      0        |
-|  |      1.11.2024 – 2.11.2024    |      1 (א)    |
-|  |      פברואר 2025              |      2 (ב)    |
-|  |      2025                     |      גמר     |
-
 </p>
-The four winners of this olympiad will represent Israel as a team at <a href="https://ioling.org/upcoming" target="_blank">IOL-2025 in 🇹🇼Taiwan</a>.
+
+| תוצאות                                           | תאריכים                   | שלב      |
+| :-----------------------------------------------:| -------------------------:| --------:|
+| <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |  4.05.2024                | 0        |
+|  |  1.11.2024 – 2.11.2024    | א    |
+|  |  פברואר 2025              | ב    |
+|  |  2025                     | גמר     |
+
+
+<p class="hebrew">
+  ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל באולימפיאדה הבינלאומית ביולי 2025 בטאיוואן.
+</p>
