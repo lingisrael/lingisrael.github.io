@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Israeli Linguistics Olympiad
+header: 🏠︎
 ---
 
 <head>
