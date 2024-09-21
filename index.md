@@ -42,7 +42,8 @@ The national linguistics competition for high school students in Israel. Each ye
 
 <p class="hebrew">
   תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
-
+</p>
+<p class="hebrew">
 <a class="hebrew" href="./hebrew"><button name="button" class="button">להמשיך בעברית</button></a>
 </p>
 
