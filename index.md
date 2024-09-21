@@ -5,7 +5,7 @@ layout: default
 <head>
   <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
   <title>Israeli Linguistics Olympiad</title>
-  <link rel="icon" type="image/x-icon" href="./images/LingIsraelLogo.png">
+  <link rel="icon" type="image/x-icon" href="images/LingIsraelLogo.png">
   
 <style>
   * {
