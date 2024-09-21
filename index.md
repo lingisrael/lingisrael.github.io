@@ -72,7 +72,7 @@ The four winners of this olympiad will represent Israel as a team at
 </p>
 
 
-<div class="to_right">
+<div class="to_right" markdown="1">
 
 
 | תוצאות                                           | תאריכים                   | שלב      |
@@ -80,7 +80,7 @@ The four winners of this olympiad will represent Israel as a team at
 | <a href="https://israel-ling.org/olimpiada" target="_blank">➲</a> |  4.05.2024                | 0        |
 |  |  1.11.2024 – 2.11.2024    | א    |
 |  |  פברואר 2025              | ב    |
-|  |  2025                     | גמר     |
+|  |  2025                     | סופי     |
 
 
 </div>
