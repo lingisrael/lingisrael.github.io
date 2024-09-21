@@ -18,6 +18,10 @@ layout: default
     direction: rtl;
     text-align: right;
   }
+  .hebrew {
+    direction: rtl;
+    text-align: right;
+  }
   
   
 </style>
@@ -28,8 +32,11 @@ The national linguistics competition for high school students in Israel. Each ye
 
 <a href="./english"><button name="button" class="button" onclick="./english">Continue in English</button></a>
 
-
-# <img src="images/LingIsraelLogo.png" width="30"> <he-brew>אולימפיאדת הבלשנות הארצית</he-brew>
+<h1 class="hebrew">
+  <img src="images/LingIsraelLogo.png" width="30">
+  אולימפיאדת הבלשנות הישראלית
+</h1>
+#  <he-brew>אולימפיאדת הבלשנות הארצית</he-brew>
 <he-brew>
 תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
 </he-brew>
