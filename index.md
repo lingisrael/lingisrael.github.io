@@ -26,6 +26,9 @@ header: 🏠︎
     direction: rtl;
     text-align: right;
   }
+  .to_right {
+    float: right
+  }
   
   
 </style>
@@ -69,7 +72,7 @@ The four winners of this olympiad will represent Israel as a team at
 </p>
 
 
-
+<div class="to_right">
 
 | תוצאות                                           | תאריכים                   | שלב      |
 | :-----------------------------------------------:| -------------------------:| --------:|
@@ -78,7 +81,7 @@ The four winners of this olympiad will represent Israel as a team at
 |  |  פברואר 2025              | ב    |
 |  |  2025                     | גמר     |
 
-
+</div>
 <p class="hebrew">
   ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל באולימפיאדה הבינלאומית ביולי 2025 בטאיוואן.
 </p>
