@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Israeli Linguistics Olympiad
+---
 
 <head>
   <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
@@ -41,4 +44,4 @@ The national linguistics competition for high school students in Israel. Each ye
   תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
 </p>
 
-<a href="./hebrew"><button name="button" class="button">להמשיך בעברית</button></a>
+<a class="hebrew" href="./hebrew"><button name="button" class="button">להמשיך בעברית</button></a>
