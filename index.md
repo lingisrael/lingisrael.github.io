@@ -4,6 +4,8 @@ layout: default
 
 <head>
   <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet' type='text/css'>
+  <title>Israeli Linguistics Olympiad</title>
+  <link rel="icon" type="image/x-icon" href="/images/LingIsraelLogo.png">
   
 <style>
   * {
@@ -26,9 +28,11 @@ The national linguistics competition for high school students in Israel. Each ye
 
 <a href="./english"><button name="button" class="button" onclick="./english">Continue in English</button></a>
 
+
+# <img src="images/LingIsraelLogo.png" width="30"> <he-brew>אולימפיאדת הבלשנות הארצית</he-brew>
 <he-brew>
-# <img src="images/LingIsraelLogo.png" width="30"> אולימפיאדת הבלשנות הארצית
 תחרות לאומית בבלשנות לתלמידי.ות תיכון בישראל. כל שנה 4 הזוכים באולימפיאדה מייצגים את ישראל כנבחרת באולימפיאדת הבלשנות הבינלאומית.
 </he-brew>
+
 
 <a href="./english"><button name="button" class="button" onclick="./hebrew">להמשיך בעברית</button></a>
