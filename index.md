@@ -33,7 +33,7 @@ header: 🏠︎
 </style>
 </head>
 
-# <img src="images/LingIsraelLogo.png" width="30"> Israel Linguistics Olympiad
+# <img src="images/LingIsraelLogo.png" width="30"> Israeli Linguistics Olympiad
 The national linguistics competition for high school students in Israel. Each year, 4 best students nationwise are selected to represent Israel as a team at the International Linguistics Olympiad.
 
 <!--<a href="./english"><button name="button" class="button">Continue in English</button></a>-->
@@ -68,10 +68,10 @@ The four winners of this olympiad will represent Israel as a team at
 
 <a href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">Register</button></a>
 
-<h2 class="hebrew"> אב״י הראשונה (תשפ״ה, 2024-2025) </h2>
+<h2 class="hebrew"> אב״י הראשונה (תשפ״ה) </h2>
 
 <p class="hebrew">
-האולימפיאדת הראשונה מתקיימת בשנת הלימודים הזו.
+האולימפיאדת הראשונה מתקיימת בשנת הלימודים הזו, תשפ״ה (2024/2025).
 </p>
 
 
@@ -88,7 +88,7 @@ The four winners of this olympiad will represent Israel as a team at
 </div>
 
 <p class="hebrew">
-  ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל <a href="https://ioling.org/upcoming" target="_blank">באולימפיאדה הבינלאומית ביולי 2025 🇹🇼 בטאיוואן </a>.
+  ארבעה המנצחים באולימפיאדה יהיו בנבחרת שתייצג את ישראל <a href="https://ioling.org/upcoming" target="_blank">באולימפיאדה הבינלאומית ביולי 2025 🇹🇼 בטאיוואן</a>.
 </p>
 
 <p class="hebrew">
