@@ -75,7 +75,7 @@ The four winners of this olympiad will represent Israel as a team at
 <h2 class="hebrew"> אב״י הראשונה (תשפ״ה) </h2>
 
 <p class="hebrew">
-האולימפיאדת הראשונה מתקיימת בשנת הלימודים הזו, תשפ״ה (2024/2025).
+האולימפיאדה הראשונה מתקיימת בשנת הלימודים הזו, תשפ״ה (2024/2025).
 </p>
 
 
