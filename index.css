@@ -1,0 +1,332 @@
+@import url(/vendor/normalize.css);
+@import url(/vendor/fonts.css);
+@import url(/css/winner.css);
+@import url(/css/contacts.css);
+@import url(/css/problems.css);
+
+
+.page {
+    background-color: #F9F3E5;
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #333333;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.page__content {
+    max-width: 1280px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 45px 200px 60px;
+    box-sizing: border-box;
+}
+
+.header {
+    padding-bottom: 41px;
+    border-bottom: 1px solid rgba(84, 84, 84, .7);
+    background: #A1C6E7;
+    border-radius: 5px;
+    box-shadow: inset;
+}
+.title {
+ font-weight: 700;
+ font-size: 35px;
+ margin: 10px 10px;
+
+}
+
+.footer {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.78px;
+    padding: 0;
+    margin: 0;
+    margin-top: 67px;
+    color: #545454;
+}
+/* header {
+    width: 100%;
+    background: #333;
+} */
+
+.top {
+    display: flex;
+    justify-content: center;
+
+}
+
+.about {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.normal_text {
+    margin-bottom: 5px;
+    /* align-items: unset; */
+
+}
+.button {
+    border: 2px solid beige;
+    border-radius: 10px;
+    box-shadow: #ebdb99;
+}
+.button-container {
+    text-align: center;
+}
+
+.btn-registration {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    background: linear-gradient(45deg, #fda902, #f79001);
+    border-radius: 50px;
+    box-shadow: 0px 10px 20px rgba(221, 240, 75, 0.5);
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+    /* position: absolute;
+    bottom: 10px; */
+}
+
+.btn-registration::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    z-index: -1;
+    transition: all 0.75s ease;
+    opacity: 0;
+    transform: scale(0.5);
+}
+
+.btn-registration:hover::before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.btn-registration:hover {
+    color: #fff;
+    box-shadow: 0px 15px 30px rgba(243, 111, 3, 0.6);
+    transform: translateY(-5px);
+}
+
+.btn-registration span {
+    position: relative;
+    z-index: 1;
+}
+.info_block {
+    max-width: 400px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* background-color: #ecebe4; */
+    /* align-items: center; */
+    /* position: relative; */
+
+}
+
+.headline {
+font-weight: 500;
+font-size: 24px;
+line-height: 26px;
+
+}
+.logo_pic {
+    width: 60px;
+    height: 60px;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+
+/* .logo a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #290dc9;
+} */
+
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    font-weight: 700;
+
+    
+    
+}
+.nav-link {
+    border: 1px white solid;
+    border-radius: 10px;
+}
+
+.nav-links li {
+    margin-left: 15px;
+    position: relative; /* Для корректного позиционирования подменю */
+    
+    
+}
+.current_link {
+    padding-bottom: 15px;
+    border-bottom: 2px solid #f79001;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #2C3E50;
+    padding: 10px 15px;
+    transition: background 0.3s;
+    
+}
+
+.nav-links li a:hover {
+    background: #3498DB;
+    border-radius: 5px;
+}
+
+/* Стили для выпадающего подменю */
+.dropdown .dropbtn {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ccf0ff;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    padding: 10px 15px;
+    border-bottom: 1px solid #444;
+}
+
+.dropdown-content a:hover {
+    background-color: #575757;
+    border-radius: 0;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Гамбургер-меню */
+.menu-icon {
+    display: none;
+    font-size: 28px;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Для мобильных устройств */
+#menu-toggle {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        position: absolute;
+        width: fit-content;
+        top: 220px;
+        /* left: 0px; */
+        visibility: hidden;
+        /* left: -100%; */
+        background: #88c8f0;
+        
+        text-align: center;
+        transition: left 0.3s;
+        justify-content: space-between;
+        /* align-items:self-start; */
+        z-index: 1;
+    }
+    
+    .nav-links li {
+        margin: 15px;
+        border: none;
+        
+    }
+    
+    .nav-links li a {
+        padding: 15px;
+        /* border-bottom: 1px solid #444; */
+    }
+    
+    .menu-icon {
+        display: block;
+    }
+    
+    /* Показать меню при нажатии */
+    #menu-toggle:checked + .menu-icon + .nav-links {
+        /* left: 0; */
+        visibility: visible;
+    }
+
+    /* Мобильные стили для подменю */
+    .dropdown-content {
+        position: relative;
+        box-shadow: none;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+        position: relative; /* Подменю остаётся на месте */
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .footer {
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header {
+        padding-bottom: 31.6px;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+    .page__content {
+        padding: 28px 19px 36px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .page__content {
+        max-width: 553px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .page__content {
+        max-width: 320px;
+    }
+}

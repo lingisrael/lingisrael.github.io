@@ -1,0 +1,14 @@
+.persons {
+    list-style: none;
+    font-weight: 400;
+
+    
+}
+.person {
+    margin-bottom: 15px;
+}
+
+.list-title {
+    margin-bottom: 20px;
+    font-weight: 700;
+}

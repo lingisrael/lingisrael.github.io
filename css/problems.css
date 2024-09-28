@@ -1,0 +1,14 @@
+.row td {
+    padding: 5px; /* Отступы внутри ячеек */
+    word-wrap: break-word; /* Перенос слов, если они длинные */
+    max-width: 150px; /* Максимальная ширина ячейки */
+}
+
+.normal_link {
+   padding-top: 50px;
+    text-decoration: none;
+}
+
+.normal_link:hover {
+    opacity: 0.7;
+}

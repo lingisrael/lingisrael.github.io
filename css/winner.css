@@ -1,0 +1,69 @@
+.table-container {
+    display: grid;
+    max-width: 900px;
+    margin: 20px auto;
+    gap: 10px;
+}
+
+/* Общее оформление строк таблицы */
+.table-row {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* Шесть колонок */
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table-header {
+    background-color: #3B5998;
+    color: #fff;
+    font-weight: bold;
+}
+
+.cell {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #ddd;
+}
+
+/* Убираем правую границу у последней ячейки */
+.cell:last-child {
+    border-right: none;
+}
+
+.prize-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+/* Мобильная версия */
+@media (max-width: 768px) {
+    .table-row {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+            "prize name"
+            "town grade"
+            "school result";
+    }
+    
+    .cell {
+        padding: 10px;
+        border: none;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .cell:nth-child(1) { grid-area: prize; }
+    .cell:nth-child(2) { grid-area: name; }
+    .cell:nth-child(3) { grid-area: town; }
+    .cell:nth-child(4) { grid-area: grade; }
+    .cell:nth-child(5) { grid-area: school; }
+    .cell:nth-child(6) { grid-area: result; }
+    
+    .table-header {
+        display: none; /* Скрываем шапку таблицы на мобильных */
+    }
+}
