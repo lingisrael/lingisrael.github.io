@@ -97,3 +97,4 @@ The four winners of this olympiad will represent Israel as a team at
 <p class="hebrew">
 <a class="hebrew" href="https://forms.gle/4qVdj4i2BcnpYNht9"><button name="button" class="button">הרשמה</button></a>
 </p>
+<a href="/index_ru.html">New version of the site</a>
